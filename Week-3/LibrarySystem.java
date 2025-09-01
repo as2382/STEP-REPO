@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// ---------------- Book Class ----------------
+
 class Book {
     private String title;
     private String author;
